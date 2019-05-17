@@ -1,0 +1,5 @@
+{
+    "googleMaps": {
+        "googleMapsGeoCodeUrl": "https://maps.googleapis.com/maps/api/geocode/json?"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "default": {
+        "url": "amqp://localhost"
+    },
+    "prod": {
+        "url": "amqp://localhost"
+    },
+    "stage": {
+        "url": "amqp://localhost"
+    }
+}
