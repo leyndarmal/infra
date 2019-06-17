@@ -1,7 +1,6 @@
-# infra library
 
 <h1 align="center">
-   Infrastructure library for project
+   Infrastructure library for personal project
 </h1>
 
 <h4 align="center">This infra module is shared by multiple services</a>.</h4>
