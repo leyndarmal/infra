@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   Infrastructure library for personal project
+   Infrastructure library for a personal project
 </h1>
 
 <h4 align="center">This infra module is shared by multiple services</a>.</h4>
